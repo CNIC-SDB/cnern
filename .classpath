@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Program Files/IzPack/lib/standalone-compiler.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IzPack/lib/jtds-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IzPack/sample/simple/install/ibatis2-common-2.1.7.597.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IzPack/sample/simple/install/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IzPack/sample/simple/install/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IzPack/sample/simple/install/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IzPack/sample/simple/install/hessian-4.0.37.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IzPack/sample/simple/install/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/IzPack/sample/simple/install/jaxen-1.1.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
